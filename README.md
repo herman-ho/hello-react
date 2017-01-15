@@ -4,6 +4,7 @@ This is a basic project I've used to understand React. Topics learned include:
  - Presentation vs Container Components
  - Single Responsibility Principle in React Components
  - Event handlers
+ - Bundling static modules using webpack
 
 Application consists of name and message input fields that will dynamically update a corresponding greeting message.
 
